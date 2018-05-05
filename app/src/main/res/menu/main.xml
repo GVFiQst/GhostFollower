@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_facebook"
+        android:icon="@drawable/ic_facebook"
+        app:showAsAction="never"
+        android:title="Facebook settings" />
+
+    <item
+        android:id="@+id/menu_twitter"
+        android:icon="@drawable/ic_twitter"
+        app:showAsAction="never"
+        android:title="Twitter settings" />
+
+    <item
+        android:id="@+id/menu_instagram"
+        android:icon="@drawable/ic_instagram"
+        app:showAsAction="never"
+        android:title="Instagram settings" />
+
+</menu>

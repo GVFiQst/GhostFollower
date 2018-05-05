@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <info
+        class="gv_fiqst.ghostfollower.ui.fragments.social.screen.SocialFragment"
+        color="#3b5998"
+        text="Facebook"
+        textColor="#ffffff">
+
+        <arg
+            name="type"
+            type="int"
+            value="0" />
+
+        <arg
+            name="backColor"
+            type="color"
+            value="#f6f7f9" />
+
+    </info>
+
+    <info
+        class="gv_fiqst.ghostfollower.ui.fragments.social.screen.SocialFragment"
+        color="#00aced"
+        text="Twitter"
+        textColor="#ffffff">
+
+        <arg
+            name="type"
+            type="int"
+            value="1" />
+
+        <arg
+            name="backColor"
+            type="color"
+            value="#e6ecf0" />
+
+    </info>
+
+    <info
+        class="gv_fiqst.ghostfollower.ui.fragments.social.screen.SocialFragment"
+        color="#fff"
+        text="Instagram"
+        textColor="#000000">
+
+        <arg
+            name="type"
+            type="int"
+            value="2" />
+
+        <arg
+            name="backColor"
+            type="color"
+            value="#fafafa" />
+
+    </info>
+</tabs>
